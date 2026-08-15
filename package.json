@@ -1,0 +1,18 @@
+{
+  "name": "persistent-highlighter",
+  "version": "0.1.0",
+  "description": "Persistent text highlighting for Fresh: highlight terms across sessions, with colors, match modes and annotation tags",
+  "type": "plugin",
+  "fresh": {
+    "entry": "highlighter.ts",
+    "min_api_version": 1
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": "https://github.com/jsfaint/fresh-persistent-highlighter",
+  "keywords": [
+    "highlight",
+    "persistent",
+    "decoration"
+  ]
+}

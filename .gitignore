@@ -1,0 +1,11 @@
+# TypeScript build output
+*.tsbuildinfo
+
+# Editor cruft
+.DS_Store
+*.swp
+
+# Fresh user plugin copy (deployed via symlink or copy)
+.deployed/
+
+lib/fresh.d.ts
